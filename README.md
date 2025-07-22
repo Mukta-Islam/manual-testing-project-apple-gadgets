@@ -7,4 +7,14 @@ This repository is dedicated to the manual testing of the Apple Gadgets Frontend
 <br>
 The test scenarios provide a list of high-level scenarios to be tested, helping testers understand what to focus on during testing. These scenarios are listed in the Test scenario.xlsx file.
 <img width="705" height="735" alt="image" src="https://github.com/user-attachments/assets/25758218-3d33-4a77-9330-97082bcc1b9b" />
+<br>
+<br>
+<br>
+# Test Case
+Detailed test cases are documented to ensure systematic testing of the application. Test cases cover various functionalities, features, and edge cases. You can find these test cases in the Test Cases execution result.xlsx file.
+<img 
+
+
+
+
 
