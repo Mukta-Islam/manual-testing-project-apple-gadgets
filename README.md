@@ -14,7 +14,13 @@ The test scenarios provide a list of high-level scenarios to be tested, helping 
 <br>
 Detailed test cases are documented to ensure systematic testing of the application. Test cases cover various functionalities, features, and edge cases. You can find these test cases in the Test Cases execution result.xlsx file.
 <img <img width="1743" height="859" alt="image" src="https://github.com/user-attachments/assets/104b72b4-8716-411b-86a8-1f4f9663e417" />
-
+<br>
+<br>
+<br>
+<h1>Bug Report</h1>
+<br>
+If any issues or defects are identified during testing, they should be reported using the bug report template provided in the Bug Report.xlsx file. Ensure that bug reports are detailed and provide steps to reproduce the issues.
+<img
 
 
 
