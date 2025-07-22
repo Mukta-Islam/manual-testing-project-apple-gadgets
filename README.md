@@ -6,4 +6,4 @@ This repository is dedicated to the manual testing of the Apple Gadgets Frontend
 # Test Scenarioes
 <br>
 The test scenarios provide a list of high-level scenarios to be tested, helping testers understand what to focus on during testing. These scenarios are listed in the Test scenario.xlsx file.
-![image alt]()
+![image alt](https://github.com/Mukta-Islam/manual-testing-project-apple-gadgets/blob/1aca578b2b2d35989719133df1250b375a63e5ad/Test%20scenario.png)
