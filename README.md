@@ -3,6 +3,6 @@ This repository is dedicated to the manual testing of the Apple Gadgets Frontend
 <br>
 <br>
 <br>
-# Test Plan 
+# Test Scenarioes
 <br>
 The test plan outlines the overall testing strategy for the Apple gadgets front-end application. 
