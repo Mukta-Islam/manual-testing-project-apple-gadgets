@@ -10,9 +10,11 @@ The test scenarios provide a list of high-level scenarios to be tested, helping 
 <br>
 <br>
 <br>
-# Test Case
+<h1>Test Cases</h1>  
+<br>
 Detailed test cases are documented to ensure systematic testing of the application. Test cases cover various functionalities, features, and edge cases. You can find these test cases in the Test Cases execution result.xlsx file.
-<img 
+<img <img width="1743" height="859" alt="image" src="https://github.com/user-attachments/assets/104b72b4-8716-411b-86a8-1f4f9663e417" />
+
 
 
 
