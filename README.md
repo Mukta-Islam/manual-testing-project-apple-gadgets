@@ -19,6 +19,9 @@ Detailed test cases are documented to ensure systematic testing of the applicati
 <br>
 <h1>Report</h1>
 The test report summarizes the testing activities, including the number of test cases executed, passed, and failed. It offers an overview of the overall test results. The test report can be found in the Full Report Apple Gadgets.xlsx file.
+<img <img width="789" height="492" alt="image" src="https://github.com/user-attachments/assets/b033f280-6b12-4059-a8a7-8aef22ac1824" />
+<br>
+<br>
 
 <h1>Bug Report</h1>
 <br>
