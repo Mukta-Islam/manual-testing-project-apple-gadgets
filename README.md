@@ -20,7 +20,8 @@ Detailed test cases are documented to ensure systematic testing of the applicati
 <h1>Bug Report</h1>
 <br>
 If any issues or defects are identified during testing, they should be reported using the bug report template provided in the Bug Report.xlsx file. Ensure that bug reports are detailed and provide steps to reproduce the issues.
-<img
+<img <img width="723" height="481" alt="image" src="https://github.com/user-attachments/assets/f8304570-d1c8-4a43-a902-b995657c3f93" />
+
 
 
 
